@@ -1,2 +1,2 @@
-[My-CV]
-https://Suranjan27.github.io/My-CV/SuranjanSengupta.html
+https://suranjan27.github.io/My-CV/Suranjan%20Sengupta.html
+CV Web Page
