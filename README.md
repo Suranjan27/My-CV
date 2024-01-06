@@ -1,1 +1,1 @@
-https://Suranjan27/My-CV.github.io
+https://SuranjanSengupta.html/My-CV.github.io
